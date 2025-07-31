@@ -2,6 +2,170 @@
   "name": "Deep Thinking",
   "pages": "67-99",
   "questions": [
-    []
+    {
+      "page": 0,
+      "arabic_tr": "المستوى الثالث التفكير العميق",
+      "english_tr": "Level Three: Deep Thinking"
+    },
+    {
+      "page": 1,
+      "arabic_tr": "ما هو الدرس الذي تعلمته من علاقتنا؟",
+      "english_tr": "What is the lesson have you learned from our relationship?"
+    },
+    {
+      "page": 2,
+      "arabic_tr": "كيف أثرت علاقتنا على الطريقة التي ترى بها نفسك؟",
+      "english_tr": "How has our relationship affected the way you see yourself?"
+    },
+    {
+      "page": 3,
+      "arabic_tr": "كيف تتخيل علاقتنا بعد خمس سنوات؟",
+      "english_tr": "How can you imagine our relationship after five years?"
+    },
+    {
+      "page": 4,
+      "arabic_tr": "إذا كان بإمكانك تغيير شيء واحد في شخصيتي، فماذا سيكون؟",
+      "english_tr": "If you could change one thing in my personality, what would it be?"
+    },
+    {
+      "page": 5,
+      "arabic_tr": "هل كشفت علاقتنا جانبًا من شخصيتك لم تكن تعرفه من قبل؟",
+      "english_tr": "Has our relationship revealed a side of your personality that you didn't know before?"
+    },
+    {
+      "page": 6,
+      "arabic_tr": "ما الذي يجعل علاقتنا تستمر مهما كانت التحديات؟",
+      "english_tr": "What keeps our relationship going no matter what the challenges are?"
+    },
+    {
+      "page": 7,
+      "arabic_tr": "أي جانب تشعر أننا لم نستكشفه بما فيه الكفاية في علاقتنا؟",
+      "english_tr": "Which side do you feel we haven't explored enough in our relationship?"
+    },
+    {
+      "page": 8,
+      "arabic_tr": "ما الذي يجعل علاقتنا مميزة أكثر بكثير من العلاقات الأخرى؟",
+      "english_tr": "What makes our relationship much more special than the others?"
+    },
+    {
+      "page": 9,
+      "arabic_tr": "هل تغيرت نظرتك إلي منذ بداية اللعبة، وكيف؟",
+      "english_tr": "Has your view of me changed since the beginning of the game, and how?"
+    },
+    {
+      "page": 10,
+      "arabic_tr": "بناءً على حوارنا طوال اللعبة، قدم لي نصيحة.",
+      "english_tr": "Based on our dialog throughout the game give me some advice"
+    },
+    {
+      "page": 11,
+      "arabic_tr": "هل تعتقد أن حوارنا هذا قد قربنا من بعضنا البعض أكثر؟",
+      "english_tr": "Do you think our dialog has brought us closer together?"
+    },
+    {
+      "page": 12,
+      "arabic_tr": "كيف تشعر بعد هذا الحوار العميق طوال اللعبة؟",
+      "english_tr": "How do you feel after such a deep dialog throughout the game?"
+    },
+    {
+      "page": 13,
+      "arabic_tr": "هل هناك أي شيء في علاقتنا تود أن تراني أراه بشكل مختلف؟",
+      "english_tr": "Is there anything in our relationship that you want me to see differently?"
+    },
+    {
+      "page": 14,
+      "arabic_tr": "إذا كان بإمكانك تغيير طريقة تواصلنا، فماذا ستغير؟",
+      "english_tr": "If you had a chance to change the way we communicate, what would you change?"
+    },
+    {
+      "page": 15,
+      "arabic_tr": "ما هو أكثر شيء لا يُنسى ستتذكره عن علاقتنا في المستقبل؟",
+      "english_tr": "What is the most memorable thing you will remember about our relationship in the future?"
+    },
+    {
+      "page": 16,
+      "arabic_tr": "ما هي اللحظة التي شعرت فيها أنني كنت أكثر صدقًا معك؟",
+      "english_tr": "What was the moment you felt I was most honest with you?"
+    },
+    {
+      "page": 17,
+      "arabic_tr": "إذا كان بإمكانك أن تطلب مني شيئًا واحدًا فقط الآن، فماذا سيكون؟",
+      "english_tr": "If you could ask only one thing from me now, what would it be?"
+    },
+    {
+      "page": 18,
+      "arabic_tr": "ما هو أكبر اختلاف بيننا يعتبر نقطة إيجابية في علاقتنا؟",
+      "english_tr": "What is the biggest difference between us that is considered a positive point in our relationship?"
+    },
+    {
+      "page": 19,
+      "arabic_tr": "أي جزء من شخصيتي تعتقد أنني لا أقدره بما يكفي؟",
+      "english_tr": "Which part of my personality do you think I don't value enough?"
+    },
+    {
+      "page": 20,
+      "arabic_tr": "ما هو أكثر شيء غير متوقع تعلمته عني، ولم تتوقعه في البداية؟",
+      "english_tr": "What's the most unexpected thing you learned about me that you didn't expect at first?"
+    },
+    {
+      "page": 21,
+      "arabic_tr": "ماذا أفعل يجعلك تشعر بالأمان في علاقتنا؟",
+      "english_tr": "What do I do that makes you feel safe in our relationship?"
+    },
+    {
+      "page": 22,
+      "arabic_tr": "ما هو أكثر شيء تتمنى أن أفهمه عنك بشكل أعمق؟",
+      "english_tr": "Tell me one thing you wish I understood more deeply about you"
+    },
+    {
+      "page": 23,
+      "arabic_tr": "ما رأيك في طريقة إدارتنا للصراعات، وكيف يمكننا تحسينها أكثر؟",
+      "english_tr": "What do you think about the way we manage conflict, and how can we improve it more?"
+    },
+    {
+      "page": 24,
+      "arabic_tr": "ما الذي يجعلك متأكدًا أن علاقتنا لديها أساس قوي يدوم مع مرور الوقت؟",
+      "english_tr": "What makes you sure that our relationship has a strong foundation that will last over time?"
+    },
+    {
+      "page": 25,
+      "arabic_tr": "إذا كنا في موقف صعب، ماذا تتوقع مني أن أفعل لأمنحك راحة البال والطمأنينة؟",
+      "english_tr": "If we were in a difficult situation, what would you expect me to do to give you peace of mind and comfort?"
+    },
+    {
+      "page": 26,
+      "arabic_tr": "ما الذي يجعلك تشعر بالامتنان في علاقتنا، حتى لو كان شيئًا بسيطًا؟",
+      "english_tr": "What in our relationship makes you feel grateful, even if it's something simple?"
+    },
+    {
+      "page": 27,
+      "arabic_tr": "هل تعتقد أن العلاقات التي تدوم مبنية على التضحية والتنازلات، أم التعاون المشترك؟",
+      "english_tr": "Do you believe that relationships that last are based on sacrifice and compromise, or cooperation?"
+    },
+    {
+      "page": 28,
+      "arabic_tr": "كيف تتعامل مع مشاعر الغضب أو الحزن تجاهي، دون أن تدع ذلك يؤثر في علاقتنا؟",
+      "english_tr": "How do you handle feelings of anger or sadness toward me without letting it affect our relationship?"
+    },
+    {
+      "page": 29,
+      "arabic_tr": "هل تعتقد أن هناك توازناً بين العطاء والأخذ في علاقتنا؟",
+      "english_tr": "Do you think there is a balance between giving and receiving in our relationship?"
+    },
+    {
+      "page": 30,
+      "arabic_tr": "هل تعتقد أن الثقة بالعلاقة تبنى ببطء، أم أنها تحتاج إلى موقف حاسم لإثباتها؟",
+      "english_tr": "Do you think trust in a relationship is built slowly, or does it take a decisive attitude to prove it?"
+    },
+    {
+      "page": 31,
+      "arabic_tr": "ما هو أكثر شيء تريدنا أن نحافظ عليه في علاقتنا، وكيف؟",
+      "english_tr": "What is the most thing you want us to preserve in our relationship, and how?"
+    },
+    {
+      "page": 32,
+      "arabic_tr": "ما هو السؤال الذي تتمنى لو كان مدرجًا في اللعبة ولكنه ليس كذلك، وتريد أن تسأله؟",
+      "english_tr": "What is the question you wish was included in the game, but it isn’t, and you want to ask?"
+    }
   ]
 }
