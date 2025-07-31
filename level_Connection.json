@@ -2,6 +2,170 @@
   "name": "Connection",
   "pages": "34-66",
   "questions": [
-    []
+    {
+      "page": 0,
+      "arabic_tr": "المستوى الثاني التواصل",
+      "english_tr": "Level Two: Connection"
+    },
+    {
+      "page": 1,
+      "arabic_tr": "ما هو أكبر تحديا واجهته في حياتك، وكيف تعاملت معه؟",
+      "english_tr": "What is the biggest challenge you have faced in your life, and how did you deal with it?"
+    },
+    {
+      "page": 2,
+      "arabic_tr": "ما هو أكبر مخاوفك بشأن المستقبل؟",
+      "english_tr": "What is your biggest fear about the future?"
+    },
+    {
+      "page": 3,
+      "arabic_tr": "ما هي المبادئ التي تعيش حياتك بها؟",
+      "english_tr": "What are the principles you live your life by?"
+    },
+    {
+      "page": 4,
+      "arabic_tr": "ما هو أهم شيء تود فهمه عن نفسك بشكل أفضل؟",
+      "english_tr": "What is the most important thing you would like to understand about yourself better?"
+    },
+    {
+      "page": 5,
+      "arabic_tr": "اذكر شيئًا واحدًا تتمنى أن يعرفه الناس عنك أكثر.",
+      "english_tr": "Mention one thing you wish people knew more about you."
+    },
+    {
+      "page": 6,
+      "arabic_tr": "متى كانت آخر مرة شعرت فيها بالدعم الحقيقي من شخص ما؟",
+      "english_tr": "When was the last time you felt real support from someone?"
+    },
+    {
+      "page": 7,
+      "arabic_tr": "ما الذي يجعلك تشعر بالقوة؟",
+      "english_tr": "What makes you feel strong?"
+    },
+    {
+      "page": 8,
+      "arabic_tr": "هل هناك لحظة في حياتك غيرت شخصيتك أو نظرتك للحياة، وما هي؟",
+      "english_tr": "Is there a moment in your life that changed your personality or how you see life, and what is it?"
+    },
+    {
+      "page": 9,
+      "arabic_tr": "من هو الشخص الذي كان له أكبر تأثيرا في حياتك، وكيف أثر ذلك عليك؟",
+      "english_tr": "Who has had the greatest impact on your life, and how did that affect you?"
+    },
+    {
+      "page": 10,
+      "arabic_tr": "كيف تتعامل مع الانتقادات؟",
+      "english_tr": "How do you deal with criticism?"
+    },
+    {
+      "page": 11,
+      "arabic_tr": "كيف تطور شخصيتك؟",
+      "english_tr": "How do you develop your personality?"
+    },
+    {
+      "page": 12,
+      "arabic_tr": "إذا أتيحت لك الفرصة لتغيير شيء واحد في العالم، فماذا سيكون؟",
+      "english_tr": "If you had Aladdin's lamp, what would your one wish be?"
+    },
+    {
+      "page": 13,
+      "arabic_tr": "إذا كان لديك مصباح علاء الدين، ما هي الأمنية الوحيدة التي تتمناها؟",
+      "english_tr": "If you had Aladdin's lamp what is only one wish you would it be?"
+    },
+    {
+      "page": 14,
+      "arabic_tr": "ما هو تعريف النجاح بالنسبة لك، وهل تعتقد أنك حققته؟",
+      "english_tr": "What is the definition of success for you, and do you think you achieved it?"
+    },
+    {
+      "page": 15,
+      "arabic_tr": "إذا كان بإمكانك رؤية نفسك من منظور شخص يحبك، فماذا تعتقد أنك سترى؟",
+      "english_tr": "If you could see yourself from the perspective of someone who loves you, what do you think you would see?"
+    },
+    {
+      "page": 16,
+      "arabic_tr": "إذا أتيحت لك الفرصة لمقابلة شخص من الماضي، فمن سيكون؟",
+      "english_tr": "If you had the chance to meet someone from the past, who would it be?"
+    },
+    {
+      "page": 17,
+      "arabic_tr": "كيف تتعامل مع الفشل والإحباط، وهل فشلت في شيء من قبل؟",
+      "english_tr": "How do you deal with failure and frustration, and have you ever failed at something before?"
+    },
+    {
+      "page": 18,
+      "arabic_tr": "ما هو الشيء الذي تفخر به في حياتك؟",
+      "english_tr": "What is the thing you are most proud of in your life?"
+    },
+    {
+      "page": 19,
+      "arabic_tr": "هل هناك أي شيء تخاف أن تشاركه مع الآخرين؟",
+      "english_tr": "Is there anything you are afraid to share with others?"
+    },
+    {
+      "page": 20,
+      "arabic_tr": "هل شعرت بخيبة أمل في نفسك من قبل؟",
+      "english_tr": "Have you ever felt disappointed in yourself?"
+    },
+    {
+      "page": 21,
+      "arabic_tr": "كيف تتعامل مع الخوف والقلق؟",
+      "english_tr": "How do you deal with fear and worry?"
+    },
+    {
+      "page": 22,
+      "arabic_tr": "كيف تعبر عن حبك للآخرين؟",
+      "english_tr": "How do you express your love to others?"
+    },
+    {
+      "page": 23,
+      "arabic_tr": "هل تجد صعوبة في تقبل أي جزء من ماضيك؟",
+      "english_tr": "Do you find it difficult to come to terms with any part of your past?"
+    },
+    {
+      "page": 24,
+      "arabic_tr": "من هو الشخص الذي تشعر بالراحة معه؟",
+      "english_tr": "Who is the person you feel comfortable with?"
+    },
+    {
+      "page": 25,
+      "arabic_tr": "هل تأخذ وقتًا للجلوس مع نفسك والاعتناء بها؟",
+      "english_tr": "Do you take time to sit with yourself and practice self-care?"
+    },
+    {
+      "page": 26,
+      "arabic_tr": "اذكر نشاطًا غريبًا واحدًا تود القيام به.",
+      "english_tr": "Say one strange activity you would like to do."
+    },
+    {
+      "page": 27,
+      "arabic_tr": "هل تخاف من الوحدة؟ إذا كان الأمر كذلك، فلماذا؟",
+      "english_tr": "Are you afraid of being alone? If so, why?"
+    },
+    {
+      "page": 28,
+      "arabic_tr": "ما الذي يجعلك تشعر بشغف أكبر؟",
+      "english_tr": "What makes you feel more passionate?"
+    },
+    {
+      "page": 29,
+      "arabic_tr": "إذا كان بإمكانك أن تلتقي نفسك عندما كنت طفلاً، فماذا ستقول لنفسك؟",
+      "english_tr": "If you could meet yourself as a child, what would you say to yourself?"
+    },
+    {
+      "page": 30,
+      "arabic_tr": "هل أنت شخص مسامح أم لا؟ هل تجد صعوبة في مسامحة نفسك أو الآخرين؟",
+      "english_tr": "Are you a forgiving person or not? Do you find it difficult to forgive yourself or others?"
+    },
+    {
+      "page": 31,
+      "arabic_tr": "ما هي المهارة التي تتمنى إتقانها، ولماذا؟",
+      "english_tr": "What skill do you wish to master, and why?"
+    },
+    {
+      "page": 32,
+      "arabic_tr": "إذا كانت عواطفك لوحة فنية، فما هي الألوان التي ستظهر أكثر؟",
+      "english_tr": "If your emotions were a painting, what colors would appear the most?"
+    }
   ]
 }
