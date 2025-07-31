@@ -1,6 +1,7 @@
 {
   "name": "Discovery",
   "pages": "1-33",
+  "isLocked": true,
   "questions": [
     {
       "page": 0,
